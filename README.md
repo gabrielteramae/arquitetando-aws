@@ -44,6 +44,13 @@ cd arquitetando-aws
 
 Leia da seção 1 até a 10 quando precisar escolher um serviço. A seção 11 é o atalho (código, dados, integração). Não há servidor neste repositório.
 
+O código que segue este mapa está em outros dois repositórios:
+
+| Decisão do mapa | Onde |
+| --- | --- |
+| Lambda, API Gateway e DynamoDB | [api-serverless](https://github.com/gabrielteramae/api-serverless) |
+| S3 privado, módulo Terraform e budget de US$ 5 | [devops-cloud-study/labs/terraform](https://github.com/gabrielteramae/devops-cloud-study/tree/main/labs/terraform) |
+
 ## 1. Computação
 
 | Serviço | O que é | Quando usar |
